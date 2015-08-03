@@ -1,0 +1,16 @@
+name: mkii.org
+description: Various thoughts and projects
+meta_description: "mkii.org, Varous thoughts and projects"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://blog.mkii.org/'
+#google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'http://blog.mkii.org/'
+author:         'Patrick Barrett'
+bio_short:      "My name is Patrick Barrett. I\'m an Applications Engineer at <a href='https://exosite.com'>Exosite</a> in Minneapolis, MN."
